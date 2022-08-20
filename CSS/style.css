@@ -24,3 +24,6 @@
     width:200px;
     height:200px;
 }
+.displayin{
+    display: inline-block;
+}
