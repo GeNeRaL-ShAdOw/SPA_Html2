@@ -28,6 +28,11 @@
 .displayin{
     display: inline-block;
 }
-.abs{
+.bottom-cloud{
     position: absolute;
+    right: 260px;
+}
+.top-cloud{
+    position: absolute;
+    left:260px;
 }
