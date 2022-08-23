@@ -1,5 +1,7 @@
 .Heading{
-    background-color: #F7ECDE;
+    background-color: #E4F9F5;
+    position: relative;
+    padding: 100px;
 }
 .remove{
     margin:0px;
