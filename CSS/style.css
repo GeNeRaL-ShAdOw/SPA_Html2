@@ -3,6 +3,7 @@
 }
 .remove{
     margin:0px;
+    text-align: center;
 }
 .top-container{
     background-color: aquamarine;
@@ -26,4 +27,7 @@
 }
 .displayin{
     display: inline-block;
+}
+.abs{
+    position: absolute;
 }
